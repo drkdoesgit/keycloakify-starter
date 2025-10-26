@@ -1334,6 +1334,11 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
+"@keycloakify/email-native@~260007.0.0":
+  version "260007.0.0"
+  resolved "https://registry.yarnpkg.com/@keycloakify/email-native/-/email-native-260007.0.0.tgz#8ee9a889ca022fa13f2d13f166f3c1fa565dc37c"
+  integrity sha512-hFUiOwwpc84eXPAct44G/pTBkYnDQF1jIObME+ZUrb7XidmFJ/TdH9q49LKpd9sIivSyOEJa1qLtrggP+c+BJw==
+
 "@ndelangen/get-tarball@^3.0.7":
   version "3.0.9"
   resolved "https://registry.yarnpkg.com/@ndelangen/get-tarball/-/get-tarball-3.0.9.tgz#727ff4454e65f34707e742a59e5e6b1f525d8964"
