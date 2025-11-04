@@ -9,6 +9,7 @@ const { useI18n, ofTypeI18n } = i18nBuilder
     .withCustomTranslations({
         // WARNING: You can't import the translation from external files
         en: {
+            loginTitle: "Alon | Workplace Equity Platform",
             header1 :"Elevating the value of",
             header2 : "human work",
             subtitle : "Alon is a Workplace Equity Platform.",
