@@ -1007,3 +1007,9 @@ input.invalid:focus,
   line-height: 1.4375em;
   margin-bottom: calc(var(--spacing) * 4px);
 }
+
+#kc-content-wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 1rem;
+}
