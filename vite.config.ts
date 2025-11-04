@@ -36,9 +36,9 @@ export default defineConfig({
     This option allows you to start Keycloak with extra arguments.
     */
     keycloakExtraArgs: [
-     "--spi-email-template-provider=freemarker-plus-mustache",
-     "--spi-email-template-freemarker-plus-mustache-enabled=true",
-     "--spi-theme-cache-themes=false"
+    //  "--spi-email-template-provider=freemarker-plus-mustache",
+    //  "--spi-email-template-freemarker-plus-mustache-enabled=true",
+    //  "--spi-theme-cache-themes=false"
     ],
 
     /*
